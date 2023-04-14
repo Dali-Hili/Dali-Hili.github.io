@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.12a8ae67.css",
-    "main.js": "/static/js/main.cb6ffb15.js",
+    "main.css": "/static/css/main.2f9f196e.css",
+    "main.js": "/static/js/main.9486ec44.js",
     "static/js/483.7dde2fb6.chunk.js": "/static/js/483.7dde2fb6.chunk.js",
     "static/media/offreSandi.png": "/static/media/offreSandi.506c56a63492fc4c02ee.png",
     "static/media/CarouselImage-1.png": "/static/media/CarouselImage-1.680661ca43b677081bf6.png",
@@ -36,12 +36,12 @@
     "static/media/lock.svg": "/static/media/lock.483737b75daa0a88454be269f03996dd.svg",
     "static/media/email.svg": "/static/media/email.2dd587dfbb9207ebfbff7d5751b80426.svg",
     "static/media/mobile.svg": "/static/media/mobile.e0be779e87e764e00c721ce624255782.svg",
-    "main.12a8ae67.css.map": "/static/css/main.12a8ae67.css.map",
-    "main.cb6ffb15.js.map": "/static/js/main.cb6ffb15.js.map",
+    "main.2f9f196e.css.map": "/static/css/main.2f9f196e.css.map",
+    "main.9486ec44.js.map": "/static/js/main.9486ec44.js.map",
     "483.7dde2fb6.chunk.js.map": "/static/js/483.7dde2fb6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12a8ae67.css",
-    "static/js/main.cb6ffb15.js"
+    "static/css/main.2f9f196e.css",
+    "static/js/main.9486ec44.js"
   ]
 }
