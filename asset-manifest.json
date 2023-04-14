@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2f9f196e.css",
-    "main.js": "/static/js/main.107b4070.js",
+    "main.js": "/static/js/main.ca5e28d0.js",
     "static/js/483.7dde2fb6.chunk.js": "/static/js/483.7dde2fb6.chunk.js",
     "static/media/offreSandi.png": "/static/media/offreSandi.506c56a63492fc4c02ee.png",
     "static/media/CarouselImage-1.png": "/static/media/CarouselImage-1.680661ca43b677081bf6.png",
@@ -37,11 +37,11 @@
     "static/media/email.svg": "/static/media/email.2dd587dfbb9207ebfbff7d5751b80426.svg",
     "static/media/mobile.svg": "/static/media/mobile.e0be779e87e764e00c721ce624255782.svg",
     "main.2f9f196e.css.map": "/static/css/main.2f9f196e.css.map",
-    "main.107b4070.js.map": "/static/js/main.107b4070.js.map",
+    "main.ca5e28d0.js.map": "/static/js/main.ca5e28d0.js.map",
     "483.7dde2fb6.chunk.js.map": "/static/js/483.7dde2fb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f9f196e.css",
-    "static/js/main.107b4070.js"
+    "static/js/main.ca5e28d0.js"
   ]
 }
