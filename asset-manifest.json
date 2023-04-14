@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.12a8ae67.css",
-    "main.js": "/static/js/main.6d62e3fa.js",
-    "static/js/483.7dde2fb6.chunk.js": "/static/js/483.7dde2fb6.chunk.js",
+    "main.css": "/static/css/main.b14b903b.css",
+    "main.js": "/static/js/main.10e7ac9a.js",
+    "static/js/483.a6601bc9.chunk.js": "/static/js/483.a6601bc9.chunk.js",
     "static/media/offreSandi.png": "/static/media/offreSandi.506c56a63492fc4c02ee.png",
     "static/media/CarouselImage-1.png": "/static/media/CarouselImage-1.680661ca43b677081bf6.png",
     "static/media/CarouselImage-4.png": "/static/media/CarouselImage-4.5cd28fa7012f8b0dac3a.png",
@@ -36,12 +36,12 @@
     "static/media/lock.svg": "/static/media/lock.483737b75daa0a88454be269f03996dd.svg",
     "static/media/email.svg": "/static/media/email.2dd587dfbb9207ebfbff7d5751b80426.svg",
     "static/media/mobile.svg": "/static/media/mobile.e0be779e87e764e00c721ce624255782.svg",
-    "main.12a8ae67.css.map": "/static/css/main.12a8ae67.css.map",
-    "main.6d62e3fa.js.map": "/static/js/main.6d62e3fa.js.map",
-    "483.7dde2fb6.chunk.js.map": "/static/js/483.7dde2fb6.chunk.js.map"
+    "main.b14b903b.css.map": "/static/css/main.b14b903b.css.map",
+    "main.10e7ac9a.js.map": "/static/js/main.10e7ac9a.js.map",
+    "483.a6601bc9.chunk.js.map": "/static/js/483.a6601bc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12a8ae67.css",
-    "static/js/main.6d62e3fa.js"
+    "static/css/main.b14b903b.css",
+    "static/js/main.10e7ac9a.js"
   ]
 }
